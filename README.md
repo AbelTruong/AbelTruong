@@ -3,11 +3,6 @@
 
 ---
 
-<div align="center">
-  <img src="./assets/coding.jpeg" width="500px" />
-</div>
-
----
 
 ## 🔭 **Languages - Packages - Library - Framework:** 💻
 
